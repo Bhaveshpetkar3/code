@@ -2,6 +2,7 @@
 using namespace std;
 class Node
 {
+    //to check if the class is working or not
 public:
     int data;
     Node *next;
